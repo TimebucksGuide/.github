@@ -4,6 +4,12 @@ Welcome to **TimebucksGuide**, a comprehensive resource dedicated to helping use
 
 <img width="1536" height="1024" alt="TimebucksGuide" src="https://github.com/user-attachments/assets/ed1ccd0b-575c-4fe1-92e9-3770ab595d4c" />
 
+🚀 Ready to start earning online?
+
+👉[**Join TimeBucks Today**](https://timebucks.com/?refID=218276273)
+
+Earn money through surveys, offers, social media tasks, referrals, watching videos, and more. This repository will help you maximise your earnings with practical tips, strategies, and step-by-step guides.
+
 ## What is TimeBucks?
 
 TimeBucks is a global rewards platform that allows users to earn money through a variety of online activities, including surveys, watching videos, completing offers, social media tasks, referrals, content engagement, and much more. With millions of users worldwide, it has become one of the most popular platforms for people seeking flexible online income opportunities.
@@ -19,12 +25,6 @@ TimeBucks is a global rewards platform that allows users to earn money through a
 * ✔ Frequently Asked Questions (FAQs)
 * ✔ Updates about new features and earning methods
 * ✔ Resources for beginners and advanced users
-
-🚀 Ready to start earning online?
-
-👉[**Join TimeBucks Today**](https://timebucks.com/?refID=218276273)
-
-Earn money through surveys, offers, social media tasks, referrals, watching videos, and more. This repository will help you maximise your earnings with practical tips, strategies, and step-by-step guides.
 
 ## Why Follow This Repository?
 
